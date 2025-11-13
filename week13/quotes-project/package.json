@@ -1,0 +1,21 @@
+{
+  "name": "week12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testAsync.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "backend": "json-server --watch ./data/db.json --port 5000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.2.2"
+  },
+  "dependencies": {
+    "22": "^0.0.0",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
